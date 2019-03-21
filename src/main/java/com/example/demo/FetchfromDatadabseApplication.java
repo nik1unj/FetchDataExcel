@@ -10,4 +10,5 @@ public class FetchfromDatadabseApplication {
 		SpringApplication.run(FetchfromDatadabseApplication.class, args);
 	}
 
+	
 }
